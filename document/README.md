@@ -4,4 +4,4 @@
 - [설치 방법](./install.md)
 - [E2E 테스트란?](./e2eTest.md)
 - [E2E 테스트 예제코드 사용하기](./exampleSpec.md)
-- E2E 테스트 예제 코드 분석하기
+- [테스트 코드를 읽는 방법](./howToReadTestCode.md)
