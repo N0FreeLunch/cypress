@@ -6,3 +6,4 @@
 - [E2E 테스트 예제코드 사용하기](./exampleSpec.md)
 - [테스트 코드를 읽는 방법](./howToReadTestCode.md)
 - [열결되는 동작 테스트하기](./testTheFollowingBehavior.md)
+- [태그 기반의 테스트](./tagBaseTest.md)
