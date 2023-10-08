@@ -4,6 +4,7 @@
 - [설치 방법](./install.md)
 - [E2E 테스트란?](./e2eTest.md)
 - [E2E 테스트 예제코드 사용하기](./exampleSpec.md)
-- [테스트 코드를 읽는 방법](./howToReadTestCode.md)
-- [열결되는 동작 테스트하기](./testTheFollowingBehavior.md)
-- [태그 기반의 테스트](./tagBaseTest.md)
+- 예제를 통해 배워보기
+  - [테스트 코드를 읽는 방법](./howToReadTestCode.md)
+  - [열결되는 동작 테스트하기](./testTheFollowingBehavior.md)
+  - [서비스 제공의 핵심 가치를 우선하여 테스트를 작성하자](./serviceCorePriority.md)
