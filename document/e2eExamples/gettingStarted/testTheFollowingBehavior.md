@@ -1,3 +1,11 @@
+## 열결되는 동작 테스트하기
+
+### 대상 테스트 파일
+
+- cypress/e2e/1-getting-started/todo.cy.js
+
+### 예제 코드
+
 ```js
 it("can add new todo items", () => {
   // We'll store our item text in a variable so we can reuse it
