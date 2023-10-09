@@ -7,4 +7,4 @@
 - 예제를 통해 배워보기
   - [테스트 코드를 읽는 방법](./e2eExamples/gettingStarted/howToReadTestCode.md)
   - [열결되는 동작 테스트하기](./e2eExamples/gettingStarted/testTheFollowingBehavior.md)
-  - [서비스 제공의 핵심 가치를 우선하여 테스트를 작성하자](./e2eExamples/gettingStarted/serviceCorePriority.md)
+  - [서비스 제공의 핵심 가치를 우선하여 테스트를 작성하자](./e2eExamples/gettingStarted/prioritizeCoreValueOfService.md)
